@@ -16,4 +16,8 @@ struct ListOfFavouritesTip: Tip {
     var message: Text? {
         Text( "Check your favourite list")
     }
+    
+//    var actions: [Action] {
+//        [Action(id: "favourite-list-action", title: "Learn More")]
+//    }
 }
